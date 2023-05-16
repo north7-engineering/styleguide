@@ -24,4 +24,4 @@ North7 styleguide reference and resources
 # Color
 
 ![Darktheme](colors.png) <br>
- #181818, #004E0C, #252E28, #EBEBEB
+ #0D1117, #004E0C, #252E28, #EBEBEB
