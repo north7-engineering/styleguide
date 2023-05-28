@@ -16,6 +16,10 @@ North7 styleguide reference and resources
 
 ![SymbolWhiteAll](logo/white_all.svg)
 
+## Black All
+
+![SymbolWhiteAll](logo/black_all.svg)
+
 # Fonts
 
 - [Quantico](https://github.com/north7/styleguide/raw/main/fonts/Quantico) 
